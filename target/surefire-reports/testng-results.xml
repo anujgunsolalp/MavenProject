@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+      <class name="qackickacademy.CarLoanTest">
+        <test-method status="PASS" signature="customerID()[pri:0, instance:qackickacademy.CarLoanTest@42dafa95]" name="customerID" duration-ms="15" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerID -->
+        <test-method status="PASS" signature="customerInfo()[pri:0, instance:qackickacademy.CarLoanTest@42dafa95]" name="customerInfo" duration-ms="0" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerInfo -->
+      </class> <!-- qackickacademy.CarLoanTest -->
+      <class name="qackickacademy.HomeLoanTest">
+        <test-method status="PASS" signature="customerID()[pri:0, instance:qackickacademy.HomeLoanTest@402a079c]" name="customerID" duration-ms="0" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerID -->
+        <test-method status="PASS" signature="customerInfo()[pri:0, instance:qackickacademy.HomeLoanTest@402a079c]" name="customerInfo" duration-ms="16" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerInfo -->
+      </class> <!-- qackickacademy.HomeLoanTest -->
+      <class name="qackickacademy.BusinessLoanTest">
+        <test-method status="PASS" signature="customerInfo()[pri:0, instance:qackickacademy.BusinessLoanTest@6500df86]" name="customerInfo" duration-ms="0" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerInfo -->
+        <test-method status="PASS" signature="customerID()[pri:0, instance:qackickacademy.BusinessLoanTest@6500df86]" name="customerID" duration-ms="0" started-at="2020-01-16T08:58:31 IST" finished-at="2020-01-16T08:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerID -->
+      </class> <!-- qackickacademy.BusinessLoanTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
